@@ -1,10 +1,10 @@
-# API
+# 音源分離webアプリ（デモ）
 ## 環境構築
 anacondaをインストール
 https://www.python.jp/install/anaconda/windows/install.html
 
 ターミナルで
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt  
 
 $ streamlit run app.py
 
